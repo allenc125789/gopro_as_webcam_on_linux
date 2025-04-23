@@ -1,3 +1,5 @@
+Forking for possible future development practice, if I can get a second gopro to test on. My goals would be trying to allow multiple gopro interfacing, and an option for a safe exit of the program.
+
 # Use your GoPro as a webcam on Linux (without additional hardware)
 > Currently there is no official support for using your GoPro 8, 9, or 10 (the only versions that offer this feature natively) as a webcam on Linux. The web is full of incomplete tutorials for this topic. This script tries to simplify this effort.
 
